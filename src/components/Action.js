@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 const Action = (props) => (
   <div>
@@ -8,7 +8,7 @@ const Action = (props) => (
       disabled={!props.hasOptions}
     >
       What should I do?
-      </button>
+    </button>
   </div>
 );
 
